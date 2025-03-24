@@ -14,6 +14,7 @@
 - [Extra Value Added](#extra-value-added-)
 - [Awesome Banners](#awesome-banners-)
 - [Cool Avatars for GitHub Profile](#cool-avatars-for-github-profile-)
+- [Agradecimentos](#agradecimentos-)
 
 ## Moving Logos [🔝](#--gifs-for-readme--)
 
@@ -699,10 +700,12 @@
   
 </div><br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Thanks for Visiting [🔝](#--gifs-for-readme--)
+# Agradecimentos [🔝](#--gifs-for-readme--)
 
-### Made with 💜 by [Anmol](https://twitter.com/Anmol_Codes)
+Gostaria de expressar minha gratidão aos criadores dos seguintes repositórios, que serviram como inspiração para este projeto:
 
-### Please 🌟 this repository! It really helps others to find this!!  <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="25" />
+- <a href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub">Cool-GIFs-For-GitHub</a> de Anmol Baranwal
 
-Please create an issue or get in touch with me if you have any feedback or suggestions.
+- <a href="https://github.com/mdazfar2/Cool-GIFs-For-GitHub">Cool-GIFs-For-GitHub</a> de mdazfar2
+
+O repositório de **mdazfar2** também foi inspirado pelo trabalho de **Anmol Baranwal**. Com base nessas referências, selecionei e adaptei as animações que mais se adequam às minhas preferências, criando uma coleção personalizada para este repositório.
