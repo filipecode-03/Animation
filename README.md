@@ -12,7 +12,6 @@
 - [Animated Emojis](#animated-emojis-)
 - [Work Culture (HD Visuals)](#work-culture-hd-visuals-)
 - [Extra Value Added](#extra-value-added-)
-- [Cute Working Stickers](#cute-working-stickers-)
 - [Awesome Banners](#awesome-banners-)
 - [Cool Avatars for GitHub Profile](#--cool-avatars-for-github-profile---)
 
