@@ -13,7 +13,7 @@
 - [Work Culture (HD Visuals)](#work-culture-hd-visuals-)
 - [Extra Value Added](#extra-value-added-)
 - [Awesome Banners](#awesome-banners-)
-- [Cool Avatars for GitHub Profile](#--cool-avatars-for-github-profile---)
+- [Cool Avatars for GitHub Profile](#cool-avatars-for-github-profile-)
 
 ## Moving Logos [🔝](#--gifs-for-readme--)
 
@@ -575,7 +575,7 @@
 
 <div align="center">
 
-# &nbsp; Cool Avatars for GitHub Profile &nbsp; [🔝](#--gifs-for-readme--)
+## Cool Avatars for GitHub Profile [🔝](#--gifs-for-readme--)
 
 <img src="https://user-images.githubusercontent.com/74038190/212259347-a485318e-d949-4b9f-9d38-35d0a566deb1.png" width="200" /><img src="https://user-images.githubusercontent.com/74038190/212262208-6e0cbfcb-1965-4b5e-9625-fee0a5d172d3.jpg" width="200" />
 <img src="https://user-images.githubusercontent.com/74038190/212259363-d40b7a35-375b-470c-b4e2-2d9cb8ac706c.png" width="200" />
