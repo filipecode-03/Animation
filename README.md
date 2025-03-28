@@ -5,7 +5,7 @@
 <br><a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://forthebadge.com/images/badges/made-with-markdown.svg" width="230" height="30" alt="made with markdown badge"></a> 
 </div>
 
-<div align="center" style="border: 1px solid red; border-radius: 10px; padding: 30px;">
+<div align="center" style="border: 1px solid red; border-radius: 10px;">
   <img src="Gifs/alert.gif" width="130">
   <h3>To ensure a smooth browsing experience, avoid opening all toggle lists at the same time. This can make the page very heavy and compromise your browser's performance.</h3>
 </div>
