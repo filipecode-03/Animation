@@ -5,6 +5,13 @@
 <br><a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://forthebadge.com/images/badges/made-with-markdown.svg" width="230" height="30" alt="made with markdown badge"></a> 
 </div>
 
+<div align="center" style="border: 1px solid red; border-radius: 10px; padding: 30px;">
+  <img src="Gifs/alert.gif" width="130">
+  <h3>To ensure a smooth browsing experience, avoid opening all toggle lists at the same time. This can make the page very heavy and compromise your browser's performance.</h3>
+</div>
+
+<br>
+
 # [Menu](#menu)
 - [Welcome](#welcome)
 - [Moving Logos](#moving-logos-)
@@ -282,306 +289,230 @@
     <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="100">
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e4f28204-ea88-4364-a321-8330c3fbde6a" width="100"></li>
     <br>
-
+    <li>Hello World in Multiple Languages <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="400"></li>
+    <br>
+    <li>Coffee while working <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="400"></li>
+    <br>
+    <li>Ultra Fast typing Cat <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="400"></li>
+    <br>
+    <li>Junior Developer After Serious Mistake <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9db4b864-a764-468f-9052-7bfa1bfe9a74" width="400"></li>
+    <br>
+    <li>How programmers feel when code doesn't works <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/491e3e44-11a0-487a-b07b-717f677bbe4a" width="400"></li>
+    <br>
+    <li>I am bored <img src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif" width="300"></li>
+    <br>
+    <li>Yo welcome <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c552be39-25aa-4f5a-8421-54aa11f7131f" width="300"></li>
+    <br>
+    <li>Cool Cats <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a754eac4-5a8b-4e8f-922b-aff555400790" width="300"></li>
+    <br>
+    <li>Penguin with suitcase <img src="https://user-images.githubusercontent.com/74038190/213911167-6bc9ef46-2950-481c-a03c-189f9506083b.gif" width="200"></li>
+    <br>
+    <li>Hehe! I am working <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/95185e07-8f10-47db-85ae-b11c472f35ab" width="200"></li>
+    <br>
+    <li>Tappity <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0f974935-dad2-4dc1-8146-5159dbb6d3e8" width="300"></li>
+    <br>
+    <li>Roll & Work <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6c1e9fe7-c8d3-4db6-a7cb-092170a81f66" width="300"></li>
+    <br>
+    <li>I have no idea what I'm doing <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/87360948-7b92-4852-91f7-ff62ddb8fcd4" width="300"></li>
+    <br>
+    <li>Laptop Punching user <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/5f508f05-88cd-4b49-97ed-c7841874ccfc" width="300"></li>
+    <br>
+    <li>So much work <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/45ded936-e675-47cd-8457-1f50b4e16efc" width="200"></li>
+    <br>
+    <li>Sketch Working Hard <img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-50b1-45e2-a693-d19d40357766.gif" width="300"></li>
+    <br>
+    <li>Eat Sleep Code Repeat <img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" width="300"></li>
+    <br>
+    <li>Error 404 <img src="https://user-images.githubusercontent.com/74038190/212897597-fd4c1add-ec1c-4669-9a8d-c37aaaf19044.gif" width="300"></li>
+    <br>
+    <li>Code scroll <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0db32290-c193-4b32-95dc-413ce9e446a5" width="300"></li>
+    <br>
+    <li>0-1 Binary Code <img src="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif" width="300"></li>
+    <br>
+    <li>Very close octocats <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4aba8602-6a81-4772-af1f-f593ee6c389f" width="300"></li>
+    <br>
+    <li>Star passing <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500"></li>
+    <br>
+    <li>Tension walk <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/51865424-10f2-4859-8055-b62b1c0d8d36" width="300"></li>
+    <br>
+    <li>Flashback <img src="https://user-images.githubusercontent.com/74038190/214375888-0dc62524-fb43-43fd-9479-098b471d1b9c.gif" width="200"></li>
+    <br>
+    <li>9 to 5 Job <img src="https://user-images.githubusercontent.com/74038190/214375883-4dca62e9-afbe-4b40-8aec-02ca35d614df.gif" width="200"></li>
+    <br>
+    <li>Finding big size bugs <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/08edbce8-99d3-4ad2-9d04-7e0cd1f02eac" width="300"></li>
+    <br>
+    <li>Hello Wave <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a762dc06-3a4c-432e-8679-a99fe8a433b7" width="300"></li>
+    <br>
+    <li>Work pressure!! <img src="https://user-images.githubusercontent.com/74038190/214375117-d7fc8261-fff2-4b2a-826f-b917ff005e54.gif" width="300"></li>
+    <br>
+    <li>Handshake <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="200"></li>
+    <br>
+    <li>Wave <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="200"></li>
+    <br>
+    <li>Mission Bug Termination <img src="https://user-images.githubusercontent.com/74038190/215283039-83bf4f37-3fe5-4d25-a42a-249d1a7e9e4f.gif" width="200"></li>
+    <br>
+    <li>Hard Life <img src="https://user-images.githubusercontent.com/74038190/215283228-89a6af16-23b1-4144-ac9b-064dc973b3db.gif" width="200"></li>
+    <br>
+    <li>Pro Level Debugging <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="200"></li>
+    <br>
+    <li>How my code works? <img src="https://user-images.githubusercontent.com/74038190/212897782-96581536-54a0-4b87-87b4-5e55f95e8a8b.gif" width="300"></li>
+    <br>
+    <li>Robot Arm Boogies Hard: Getting Jiggy with it! <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200"></li>
+    <br>
+    <li>Programming <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300"></li>
+    <br>
+    <li>GitHub is Good <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/49abd3ca-b048-4f27-b7e0-ea6a7b172ac3" width="300"></li>
+    <br>
+    <li>GitHub Star <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0d554abf-6a41-4856-be43-5dbb4df0915b" width="300"></li>
+    <br>
+    <li>I skip documentation <img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif" width="300"></li>
+    <br>
   </ul>
 </details>
 
-- Hello World in Multiple Languages
-<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="400">
-<br><br>
-
-- Coffee while working
-<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="400">
-<br><br>
-
-- Ultra Fast typing Cat
-<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="400">
-<br><br>
-
-- Junior Developer After Serious Mistake
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9db4b864-a764-468f-9052-7bfa1bfe9a74" width="400">
-<br><br>
-
-- How programmers feel when code doesn't works
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/491e3e44-11a0-487a-b07b-717f677bbe4a" width="400">
-<br><br>
-
-- I am bored
-<img src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif" width="300">
-<br><br>
-
-- Yo welcome
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c552be39-25aa-4f5a-8421-54aa11f7131f" width="300">
-<br><br>
-
-- Cool Cats
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a754eac4-5a8b-4e8f-922b-aff555400790" width="300">
-<br><br>
-
-- Penguin with suitcase
-<img src="https://user-images.githubusercontent.com/74038190/213911167-6bc9ef46-2950-481c-a03c-189f9506083b.gif" width="200">
-<br><br>
-
-- Hehe! I am working
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/95185e07-8f10-47db-85ae-b11c472f35ab" width="200">
-<br><br>
-
-- Tappity
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0f974935-dad2-4dc1-8146-5159dbb6d3e8" width="300">
-<br><br>
-
-- Roll & Work
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6c1e9fe7-c8d3-4db6-a7cb-092170a81f66" width="300">
-<br><br>
-
-- I have no idea what I'm doing
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/87360948-7b92-4852-91f7-ff62ddb8fcd4" width="300">
-<br><br>
-
-- Laptop Punching user
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/5f508f05-88cd-4b49-97ed-c7841874ccfc" width="300">
-<br><br>
-
-- So much work
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/45ded936-e675-47cd-8457-1f50b4e16efc" width="200">
-<br><br>
-
-- Sketch Working Hard
-<img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-50b1-45e2-a693-d19d40357766.gif" width="300">
-<br><br>
-
-- Eat Sleep Code Repeat
-<img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" width="300">
-<br><br>
-
-- Error 404
-<img src="https://user-images.githubusercontent.com/74038190/212897597-fd4c1add-ec1c-4669-9a8d-c37aaaf19044.gif" width="300">
-<br><br>
-
-- Code scroll
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0db32290-c193-4b32-95dc-413ce9e446a5" width="300">
-<br><br>
-
-- 0-1 Binary Code
-<img src="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif" width="300">
-<br><br>
-
-- Very close octocats
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4aba8602-6a81-4772-af1f-f593ee6c389f" width="300">
-<br><br>
-
-- Star passing
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
-<br><br>
-
-- Tension walk
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/51865424-10f2-4859-8055-b62b1c0d8d36" width="300">
-<br><br>
-
-- Flashback
-<img src="https://user-images.githubusercontent.com/74038190/214375888-0dc62524-fb43-43fd-9479-098b471d1b9c.gif" width="200">
-<br><br>
-
-- 9 to 5 Job
-<img src="https://user-images.githubusercontent.com/74038190/214375883-4dca62e9-afbe-4b40-8aec-02ca35d614df.gif" width="200">
-<br><br>
-
-- Finding big size bugs
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/08edbce8-99d3-4ad2-9d04-7e0cd1f02eac" width="300">
-<br><br>
-
-- Hello Wave
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a762dc06-3a4c-432e-8679-a99fe8a433b7" width="300">
-<br><br>
-
-- Work pressure!!
-<img src="https://user-images.githubusercontent.com/74038190/214375117-d7fc8261-fff2-4b2a-826f-b917ff005e54.gif" width="300">
-<br><br>
-
-- Handshake
-<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="200">
-<br><br>
-
-- Wave
-<img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="200">
-<br><br>
-
-- Mission Bug Termination
-<img src="https://user-images.githubusercontent.com/74038190/215283039-83bf4f37-3fe5-4d25-a42a-249d1a7e9e4f.gif" width="200">
-<br><br>
-
-- Hard Life
-<img src="https://user-images.githubusercontent.com/74038190/215283228-89a6af16-23b1-4144-ac9b-064dc973b3db.gif" width="200">
-<br><br>
-
-- Pro Level Debugging
-<img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="200">
-<br><br>
-
-- How my code works?
-<img src="https://user-images.githubusercontent.com/74038190/212897782-96581536-54a0-4b87-87b4-5e55f95e8a8b.gif" width="300">
-<br><br>
-
-- Robot Arm Boogies Hard: Getting Jiggy with it!
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200">
-<br><br>
-
-- Programming
-<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300">
-<br><br>
-
-- GitHub is Good
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/49abd3ca-b048-4f27-b7e0-ea6a7b172ac3" width="300">
-<br><br>
-
-- GitHub Star
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0d554abf-6a41-4856-be43-5dbb4df0915b" width="300">
-<br><br>
-
-- I skip documentation
-<img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif" width="300">
-<br><br>
-
 ## Awesome Banners [🔝](#--gifs-for-readme--)
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280" />
-
-<br>
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
-
-<div align="center">
+<details>
+  <summary>Click here</summary>
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280" />
+    <br>
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+</details>
 
 ## Cool Avatars for GitHub Profile [🔝](#--gifs-for-readme--)
 
-<img src="https://user-images.githubusercontent.com/74038190/212259347-a485318e-d949-4b9f-9d38-35d0a566deb1.png" width="200" /><img src="https://user-images.githubusercontent.com/74038190/212262208-6e0cbfcb-1965-4b5e-9625-fee0a5d172d3.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212259363-d40b7a35-375b-470c-b4e2-2d9cb8ac706c.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212259366-1e33063f-1384-459b-9ea5-8ee5e25b63dc.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212259368-24dc6042-bc0f-4f29-85ed-5f4059aa7f31.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212259371-1f8d691d-068f-49ea-a58b-cfe103c9ff0f.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212259377-06fca729-ae7a-480f-8aea-e67670108a1c.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212259380-f2671dad-3359-4b3b-96e7-2f011c844a84.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212259388-e2cc9871-7cb3-4500-a401-3d5b71e4f103.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212259384-ac922d39-ba72-4cad-93bc-b78c83eff0b8.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212259390-64d66c80-c1ee-4a6d-a398-c317377b2bac.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212259392-ae3ffc99-2fff-4326-acfc-f68dadb9f9aa.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212259395-783f846d-0f26-490d-8814-e2be056ef4f8.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212259397-e48a311d-e4d8-4252-b3f7-2d810ecc42b4.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212259400-1b824d3f-ae84-4da9-a77b-dc13277d196c.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212259402-add393ee-2f8c-46d8-8608-d2904f716372.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212259406-86a463e7-6621-447e-8ca5-2c95e9300c9c.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212259408-67370f51-cc43-4637-9089-8bb27fd7c1e8.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212259409-3b41b22c-0c0e-4cf9-ba6e-3960480a9b5a.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212259412-24b0efc1-c324-4cc4-88dc-ec088abc8ad8.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212259416-e2ae0f97-4ffb-4c56-9ef1-41e6f5799d52.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212259418-113cbda4-dfee-476b-890d-f0d0ca366f31.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212259420-de7e3854-cd3b-4924-99c0-e1e9666190dc.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212259423-a19674fa-555a-4817-ba9d-1b5f07d86f48.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212259427-49453411-74d9-4672-9c9c-2f492cb4fb0a.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212259429-2a8dfa4f-be81-4e03-a970-27511dbe09b6.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212259434-cab2cf77-23f7-48c1-999b-e55811406b37.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212259430-ff916193-4e93-4d05-a1a0-b50254048c55.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212259438-449eca8d-1a7f-4d7d-8d47-5b918c481b6a.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212259445-d949eee3-093a-4909-b778-8f0616f084ae.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212259448-2432c74b-c4e3-4475-9a53-a9cf1253fd74.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212259450-258276fd-d577-42fa-a3b1-b27f30df86c4.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212259452-21e9f216-c9be-4023-80fd-22700dc9394d.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212259454-133dfe30-5c02-45b7-8e11-81d9b2f3413b.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212259458-10338071-0f4d-40f7-82ee-4321ba0df1a4.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212259459-f085bf03-159b-4e89-9d0d-c5b29ca2d102.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212259464-9d8ae5bc-7708-4ff7-be1e-cea9d8159ecc.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212259465-5f05a50e-500d-4809-94c5-a12e8ebc6ef1.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212259468-9e0679b0-d909-41f0-9ed2-80ca3d51ce90.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212259469-6b5a27d8-22c1-4716-9341-bef01e72dd21.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212259472-b30742fb-19dd-4258-80bf-05a56c9a352c.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212259476-c8a7ce08-99d8-428b-9227-c938d77eb651.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212907112-d360cd3f-bae2-42de-a41a-ca5622488e96.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212907117-63f3b932-dbac-4baa-b9fd-244d01629eb8.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212907120-c72ded50-c4ef-4d96-8a23-e4b69757a907.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/213005755-4d622685-6677-40cb-81ad-f10b4cc6f177.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/213005762-c43100e7-d8cc-4c1c-991c-befa682556e6.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/213006204-ed238e5d-1d6a-41ff-8516-eae144cdfeef.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/213006207-f036aab8-ef1c-41ef-8a11-479ac0c7e1df.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/213006200-9cd3d4d8-c879-48ad-aec9-5273d9357219.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/213005768-bb794ca3-66d7-4949-b4d3-86e89d7f19b5.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212907136-ec9af589-900e-4b4a-b3af-9be893afb549.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/213844373-c3099fa2-af23-43d1-b5dd-4ae1dc9c61f9.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/213844379-d3c9b999-c1fb-4ad3-9df5-374c5161f48d.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/213910345-87a0070d-e6be-4864-b0a1-7e2133e3dae2.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/213910349-0aacf2d7-b479-4180-b4de-a079079a5fd6.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/213910350-50b4b6e5-05c9-45dd-b325-513d6e1d8f40.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/213910351-91ee66be-f2b1-41f9-96cc-7104e76487b1.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/213910352-c88211f2-a405-4dc2-af4c-68d77dbb17a2.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/213910462-f0daf030-35c8-4ba5-8c69-e7318d7f8a76.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/213910465-833a555c-8508-4409-b77c-1a0b2429ed48.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/213910466-0508b373-1a23-4604-9bc0-f4fea118a570.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/213910471-54fd7ea1-77ff-4b53-bf84-a75126c9b2bd.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/213910473-4978dba0-1b3d-485d-99d6-a9d2b114db14.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/213910577-44b74bbe-537b-4220-ace6-82819a3e6bf2.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/213910579-033fa4eb-d10a-4bbe-b159-0b24e58351a8.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/213910580-41002bc2-4cb2-44ca-b1ba-37a9f15dd328.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/213910581-f13b98b0-6551-4723-9df1-1f3e2a2276f3.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/213910582-7e59d078-67b0-4ad8-9d75-3b80f3e29ba4.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/214373784-409d3c02-5533-4f5b-98a6-b31246995056.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/214373791-293fa4f8-9ebd-4de5-9cb5-56033dc3d6ce.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/214373792-64402081-abd1-4f8c-8789-43640a7fedc5.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/214373793-feb9c14d-5a9d-4784-b8d7-ed8d76926ceb.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/214374195-e8db3a0e-3aa3-44bd-a785-a21a2453ed4c.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/214374201-891d1296-9f36-4f78-98a6-fb09c59e8ed5.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/214374204-72887cd4-e510-4a45-99b3-73ceb7087969.gif" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/214374682-72ec9400-a836-402a-bc66-5c7b511c44b6.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/214374684-87f9daf7-5a55-460e-bf83-3f605c607ae4.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/214374691-181c9f14-b3b7-44d6-9af3-4045f882e806.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/214374696-9dd6ec4e-bece-43b1-a57e-13b191cf49eb.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/214374206-c2a10c51-da36-4901-8e42-a4873c1336d1.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/214642496-8bb7fd9d-55b1-4e97-b367-740dc8cb2c77.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/214642511-f30d2909-3f5d-4909-96c1-2a9b87664db6.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/214642512-609afdd7-5cef-4682-af4e-be0a598828ee.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/214642515-aada373e-73d6-47fd-9951-5caf97e73c65.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/214643099-de3817bb-95d3-4433-9a06-bf9986e648c0.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/214643106-fcf2db22-1dbe-4a0e-b968-965451691119.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/214643111-a82b594f-bdae-438f-a2b6-1da1fe239349.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/214643112-f6f588c4-473d-47b1-a2a2-ff152f691e62.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/214643115-6f442550-a946-4b46-8c6e-2d02fc84331e.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/214643706-a367d088-3cce-4ff1-ae8c-ac0fef91faaa.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/214643714-b2c946e6-b908-4fea-b01f-effd99081b6e.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/215282740-5da6370e-4c53-4ecf-a443-35049fc123bd.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/215282741-2e852778-3a28-4f01-a126-4abab40949bc.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/215282742-e439364a-ae05-4ca7-b36b-c6e47e39d700.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/215282743-5a6fb12c-b67c-45b4-b547-1c340958c6da.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/215282744-dd6667a2-850b-4de0-a7c4-066bdcbdb9ce.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/215282958-05d8085e-2e0b-4cbd-a8d4-ad261cdb707c.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/215282960-1126c81a-ed66-464a-b7d7-a111f71aa7ab.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/215282961-18b29705-cb38-4af2-9f96-9f57abbea1aa.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/215282962-edc3203f-c2cd-413b-bec3-3a1a25fba694.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/215282964-ee8174dc-9021-4163-b26d-6b94a63c4c7e.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/214643718-d3e8485d-27fb-4450-bb8a-a88d73671d93.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/214643719-68300902-66ec-4fd3-88a2-bc0b43568264.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/215768907-8efa2be5-c07a-4edc-b1b5-23ecc775ee4a.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/215768918-5f6b6cd2-e817-41de-82e4-cb60c15bab21.gif" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/215768924-1014d363-b416-4080-8c74-808583e81735.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/215768933-8904f263-b421-4fd1-a5b0-83c1f07df757.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/216318921-21620ac8-e31f-42b0-b7dd-80ee2f424c2f.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/216318927-19caf8d9-8cb8-4dc7-b7a2-b4fbda69ab21.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/216318930-4b577013-f922-4a32-b7f0-4ab7dc361880.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/219925462-c6c81fad-3841-4830-9704-c79b7e4a701f.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/219925474-859ff84f-c4dc-4b88-8f98-a49b07b4784e.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/219925478-f4cb33c8-1382-4529-89f7-8b08a14978fb.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/219925490-c89a89c6-cfa0-4125-9226-de1ab1e8e9a3.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/219925444-83554312-0997-4567-945f-b64096943b07.png" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/219925452-a3b0d96d-6b65-45ee-b68a-b2208011b26c.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/219925458-e4d4b3a1-78c5-472e-bca8-c4444efc2601.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/219925466-75d83a1e-cb88-4e7b-9c11-6678ce27029f.jpg" width="200" />
-  
-</div><br>
+<details>
+  <summary>Click here</summary>
+  <img src="https://user-images.githubusercontent.com/74038190/212259347-a485318e-d949-4b9f-9d38-35d0a566deb1.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212262208-6e0cbfcb-1965-4b5e-9625-fee0a5d172d3.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212259363-d40b7a35-375b-470c-b4e2-2d9cb8ac706c.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212259366-1e33063f-1384-459b-9ea5-8ee5e25b63dc.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212259368-24dc6042-bc0f-4f29-85ed-5f4059aa7f31.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212259371-1f8d691d-068f-49ea-a58b-cfe103c9ff0f.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212259377-06fca729-ae7a-480f-8aea-e67670108a1c.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212259380-f2671dad-3359-4b3b-96e7-2f011c844a84.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212259388-e2cc9871-7cb3-4500-a401-3d5b71e4f103.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212259384-ac922d39-ba72-4cad-93bc-b78c83eff0b8.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212259390-64d66c80-c1ee-4a6d-a398-c317377b2bac.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212259392-ae3ffc99-2fff-4326-acfc-f68dadb9f9aa.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212259395-783f846d-0f26-490d-8814-e2be056ef4f8.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212259397-e48a311d-e4d8-4252-b3f7-2d810ecc42b4.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212259400-1b824d3f-ae84-4da9-a77b-dc13277d196c.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212259402-add393ee-2f8c-46d8-8608-d2904f716372.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212259406-86a463e7-6621-447e-8ca5-2c95e9300c9c.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212259408-67370f51-cc43-4637-9089-8bb27fd7c1e8.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212259409-3b41b22c-0c0e-4cf9-ba6e-3960480a9b5a.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212259412-24b0efc1-c324-4cc4-88dc-ec088abc8ad8.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212259416-e2ae0f97-4ffb-4c56-9ef1-41e6f5799d52.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212259418-113cbda4-dfee-476b-890d-f0d0ca366f31.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212259420-de7e3854-cd3b-4924-99c0-e1e9666190dc.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212259423-a19674fa-555a-4817-ba9d-1b5f07d86f48.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212259427-49453411-74d9-4672-9c9c-2f492cb4fb0a.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212259429-2a8dfa4f-be81-4e03-a970-27511dbe09b6.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212259434-cab2cf77-23f7-48c1-999b-e55811406b37.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212259430-ff916193-4e93-4d05-a1a0-b50254048c55.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212259438-449eca8d-1a7f-4d7d-8d47-5b918c481b6a.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212259445-d949eee3-093a-4909-b778-8f0616f084ae.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212259448-2432c74b-c4e3-4475-9a53-a9cf1253fd74.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212259450-258276fd-d577-42fa-a3b1-b27f30df86c4.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212259452-21e9f216-c9be-4023-80fd-22700dc9394d.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212259454-133dfe30-5c02-45b7-8e11-81d9b2f3413b.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212259458-10338071-0f4d-40f7-82ee-4321ba0df1a4.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212259459-f085bf03-159b-4e89-9d0d-c5b29ca2d102.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212259464-9d8ae5bc-7708-4ff7-be1e-cea9d8159ecc.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212259465-5f05a50e-500d-4809-94c5-a12e8ebc6ef1.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212259468-9e0679b0-d909-41f0-9ed2-80ca3d51ce90.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212259469-6b5a27d8-22c1-4716-9341-bef01e72dd21.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212259472-b30742fb-19dd-4258-80bf-05a56c9a352c.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212259476-c8a7ce08-99d8-428b-9227-c938d77eb651.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212907112-d360cd3f-bae2-42de-a41a-ca5622488e96.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212907117-63f3b932-dbac-4baa-b9fd-244d01629eb8.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212907120-c72ded50-c4ef-4d96-8a23-e4b69757a907.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213005755-4d622685-6677-40cb-81ad-f10b4cc6f177.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213005762-c43100e7-d8cc-4c1c-991c-befa682556e6.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213006204-ed238e5d-1d6a-41ff-8516-eae144cdfeef.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213006207-f036aab8-ef1c-41ef-8a11-479ac0c7e1df.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213006200-9cd3d4d8-c879-48ad-aec9-5273d9357219.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213005768-bb794ca3-66d7-4949-b4d3-86e89d7f19b5.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212907136-ec9af589-900e-4b4a-b3af-9be893afb549.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213844373-c3099fa2-af23-43d1-b5dd-4ae1dc9c61f9.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213844379-d3c9b999-c1fb-4ad3-9df5-374c5161f48d.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213910345-87a0070d-e6be-4864-b0a1-7e2133e3dae2.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213910349-0aacf2d7-b479-4180-b4de-a079079a5fd6.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213910350-50b4b6e5-05c9-45dd-b325-513d6e1d8f40.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213910351-91ee66be-f2b1-41f9-96cc-7104e76487b1.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213910352-c88211f2-a405-4dc2-af4c-68d77dbb17a2.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213910462-f0daf030-35c8-4ba5-8c69-e7318d7f8a76.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213910465-833a555c-8508-4409-b77c-1a0b2429ed48.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213910466-0508b373-1a23-4604-9bc0-f4fea118a570.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213910471-54fd7ea1-77ff-4b53-bf84-a75126c9b2bd.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213910473-4978dba0-1b3d-485d-99d6-a9d2b114db14.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213910577-44b74bbe-537b-4220-ace6-82819a3e6bf2.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213910579-033fa4eb-d10a-4bbe-b159-0b24e58351a8.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213910580-41002bc2-4cb2-44ca-b1ba-37a9f15dd328.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213910581-f13b98b0-6551-4723-9df1-1f3e2a2276f3.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213910582-7e59d078-67b0-4ad8-9d75-3b80f3e29ba4.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/214373784-409d3c02-5533-4f5b-98a6-b31246995056.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/214373791-293fa4f8-9ebd-4de5-9cb5-56033dc3d6ce.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/214373792-64402081-abd1-4f8c-8789-43640a7fedc5.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/214373793-feb9c14d-5a9d-4784-b8d7-ed8d76926ceb.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/214374195-e8db3a0e-3aa3-44bd-a785-a21a2453ed4c.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/214374201-891d1296-9f36-4f78-98a6-fb09c59e8ed5.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/214374204-72887cd4-e510-4a45-99b3-73ceb7087969.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/214374682-72ec9400-a836-402a-bc66-5c7b511c44b6.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/214374684-87f9daf7-5a55-460e-bf83-3f605c607ae4.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/214374691-181c9f14-b3b7-44d6-9af3-4045f882e806.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/214374696-9dd6ec4e-bece-43b1-a57e-13b191cf49eb.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/214374206-c2a10c51-da36-4901-8e42-a4873c1336d1.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/214642496-8bb7fd9d-55b1-4e97-b367-740dc8cb2c77.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/214642511-f30d2909-3f5d-4909-96c1-2a9b87664db6.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/214642512-609afdd7-5cef-4682-af4e-be0a598828ee.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/214642515-aada373e-73d6-47fd-9951-5caf97e73c65.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/214643099-de3817bb-95d3-4433-9a06-bf9986e648c0.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/214643106-fcf2db22-1dbe-4a0e-b968-965451691119.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/214643111-a82b594f-bdae-438f-a2b6-1da1fe239349.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/214643112-f6f588c4-473d-47b1-a2a2-ff152f691e62.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/214643115-6f442550-a946-4b46-8c6e-2d02fc84331e.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/214643706-a367d088-3cce-4ff1-ae8c-ac0fef91faaa.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/214643714-b2c946e6-b908-4fea-b01f-effd99081b6e.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/215282740-5da6370e-4c53-4ecf-a443-35049fc123bd.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/215282741-2e852778-3a28-4f01-a126-4abab40949bc.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/215282742-e439364a-ae05-4ca7-b36b-c6e47e39d700.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/215282743-5a6fb12c-b67c-45b4-b547-1c340958c6da.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/215282744-dd6667a2-850b-4de0-a7c4-066bdcbdb9ce.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/215282958-05d8085e-2e0b-4cbd-a8d4-ad261cdb707c.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/215282960-1126c81a-ed66-464a-b7d7-a111f71aa7ab.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/215282961-18b29705-cb38-4af2-9f96-9f57abbea1aa.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/215282962-edc3203f-c2cd-413b-bec3-3a1a25fba694.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/215282964-ee8174dc-9021-4163-b26d-6b94a63c4c7e.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/214643718-d3e8485d-27fb-4450-bb8a-a88d73671d93.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/214643719-68300902-66ec-4fd3-88a2-bc0b43568264.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/215768907-8efa2be5-c07a-4edc-b1b5-23ecc775ee4a.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/215768918-5f6b6cd2-e817-41de-82e4-cb60c15bab21.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/215768924-1014d363-b416-4080-8c74-808583e81735.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/215768933-8904f263-b421-4fd1-a5b0-83c1f07df757.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/216318921-21620ac8-e31f-42b0-b7dd-80ee2f424c2f.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/216318927-19caf8d9-8cb8-4dc7-b7a2-b4fbda69ab21.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/216318930-4b577013-f922-4a32-b7f0-4ab7dc361880.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/219925462-c6c81fad-3841-4830-9704-c79b7e4a701f.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/219925474-859ff84f-c4dc-4b88-8f98-a49b07b4784e.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/219925478-f4cb33c8-1382-4529-89f7-8b08a14978fb.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/219925490-c89a89c6-cfa0-4125-9226-de1ab1e8e9a3.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/219925444-83554312-0997-4567-945f-b64096943b07.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/219925452-a3b0d96d-6b65-45ee-b68a-b2208011b26c.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/219925458-e4d4b3a1-78c5-472e-bca8-c4444efc2601.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/219925466-75d83a1e-cb88-4e7b-9c11-6678ce27029f.jpg" width="200" />
+</details>
 
-# Agradecimentos [🔝](#--gifs-for-readme--)
+<br>
 
-Gostaria de expressar minha gratidão aos criadores dos seguintes repositórios, que serviram como inspiração para este projeto:
+# Thanks for Visiting [🔝](#--gifs-for-readme--)
 
-- <a href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub">Cool-GIFs-For-GitHub</a> de Anmol Baranwal
+I would like to express my gratitude to the creators of the following repositories, which served as inspiration for this project:
 
-- <a href="https://github.com/mdazfar2/Cool-GIFs-For-GitHub">Cool-GIFs-For-GitHub</a> de mdazfar2
+- <a href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub">Cool-GIFs-For-GitHub</a> by Anmol Baranwal
 
-O repositório de **mdazfar2** também foi inspirado pelo trabalho de **Anmol Baranwal**. Com base nessas referências, selecionei e adaptei as animações que mais se adequam às minhas preferências, criando uma coleção personalizada para este repositório.
+- <a href="https://github.com/mdazfar2/Cool-GIFs-For-GitHub">Cool-GIFs-For-GitHub</a> by mdazfar2
+
+**mdazfar2**'s repository was also inspired by the work of **Anmol Baranwal**. Based on these references, I selected and adapted the animations that best fit my preferences, creating a custom collection for this repository.
